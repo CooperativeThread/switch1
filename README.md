@@ -1,4 +1,4 @@
-# switch
+﻿# switch
 #include <stdio.h>
 #include <stdlib.h>
 #include "StateSystem.h"
